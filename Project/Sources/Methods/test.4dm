@@ -9,3 +9,5 @@ Progress New(False:C215)
 SVG_CLEAR("")
 // 4D Widgets
 TimePicker APPLY DEFAULT VALUES("")
+// 4D write pro interface
+WP SetAIKey("")
