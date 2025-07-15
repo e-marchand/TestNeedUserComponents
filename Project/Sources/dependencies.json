@@ -11,6 +11,10 @@
 		"4D Widgets": {
 			"github": "4d/4D-Widgets",
 			"version": "4d"
+		},
+		"4D WritePro Interface": {
+			"github": "4d/4D-WritePro-Interface",
+			"version": "4d"
 		}
 	}
 }
